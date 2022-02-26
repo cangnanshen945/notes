@@ -1,7 +1,7 @@
 # python3环境安装
 python3 安装比较简单，只需要下载对应的tgz压缩包，然后传到服务器解压即可（注意：解压后为了方便调用，需要为对应路径配置软链接）
 ## mac 上传下载文件
-mac可以使用item2代替xshell完成文件的上传下载，安装item2后，按照下述方式增加triggers，即可触发文件上传下载
+mac可以使用item2代替xshell完成文件的上传下载，安装item2后，按照下述方式增加triggers，即可通过rz/sz命令触发文件上传下载
 > Preferences -> profile -> advanced -> triggers
 
 ![](2022-01-17-18-13-02.png)
