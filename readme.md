@@ -1,2 +1,13 @@
-# 简介
-新年新气象，新的一年要多做总结
+# 目录
+- [64位升级](Android学习/64位包的升.md)
+- [Android编译](Android学习/Android%20编译.md)
+- [Android内存模型](Android学习/Android内存模型.md)
+- [Android资源限定符](Android学习/Android资源限定符.md)
+- [dalvik指令](Android学习/dalvik指令.md)
+- [https流程简介](Android学习/https流程简介.md)
+- [自定义lint检查工具](Android学习/自定义lint检查工具.md)
+- [玩转fragment生命周期](Android学习/玩转fragment生命周期.md)
+- [注解的使用](Android学习/注解的使用.md)
+- [屏幕适配](Android学习/屏幕适配.md)
+- [从view到屏幕上的图形，它经历了什么](Android学习/从view到屏幕上的图形，它经历了什么（下）.md)
+- [linux服务器定时执行python任务](日常工作/linux服务器定时执行python任务.md)
